@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>laddugit Releases Nexus Repository</name>
-	      <url>http://13.233.19.199:8081/laddugit/repository/flipkart-release/</url>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://13.233.19.199:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>laddugit Snapshot Nexus Repository </name>
-	      <url>http://13.233.19.199:8081/laddugit/repository/flipkart-snapshots/</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.233.19.199:8081/repository/flipkart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
